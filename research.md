@@ -1,1 +1,4 @@
-<h2>Contrasting Research</h2>
+# Contrasting Research
+The academic article I have chosen is "Student perspectives on competency-based portfolios: Does a portfolio reflect their competence development?". This study aims to reflect on how students choose goals and the affect on competence development. Applying this to my goals I noticed that just writing my goals down is a step in the write direction according to these scholars. After reading this article one thing I would change about my goal setting is that I should be more exploratory and talk with a mentor on creating goals with substance. 
+
+Oudkerk Pool, A., Jaarsma, A. D. C., essen, E. W., & Govaerts, M. J. B. (2020).   Student perspectives on competency-based portfolios: Does a portfolio reflect their competence development? Perspectives on Medical Education, 9(3), 166–172. https://doi.org/10.1007/s40037-020-00571-7
